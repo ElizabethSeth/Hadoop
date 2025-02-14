@@ -1,0 +1,5 @@
+Hadoop MapReduce is a programming model for processing large datasets. 
+Data processing includes words, numbers, and more structured or unstructured text.
+MapReduce splits tasks into two steps: Map and Reduce.
+Map works on words and emits key-value pairs.
+Reduce aggregates the pairs to produce results.
